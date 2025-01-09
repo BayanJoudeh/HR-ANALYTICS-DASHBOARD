@@ -20,7 +20,7 @@ The analysis is based on a dataset containing the following columns:
 - *Attrition*: Whether the employee has left the organization (Yes/No).
 - *BusinessTravel*: Frequency of business travel.
 - *DailyRate*: Daily salary rate.
-- - *Department*: Department of the employee (e.g., HR, R&D, Sales).
+- *Department*: Department of the employee (e.g., HR, R&D, Sales).
 - *DistanceFromHome*: Distance between the employee's home and workplace.
 - *Education*: Level of education (1-5).
 - *EducationField*: Field of education (e.g., Life Sciences, Marketing).
